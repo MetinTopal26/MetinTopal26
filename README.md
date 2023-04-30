@@ -1,13 +1,13 @@
-[![MasterHead](https://camo.githubusercontent.com/ba9f3bd30647e352a3f5e1e45eb45c6ec7bad6155cd16aaedf4a426738da0ca5/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966)](https://meryemkolbasar.io)
+[![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://metintopal.io)
 
 [![](https://visitcount.itsvg.in/api?id=MetinTopal26&icon=2&color=9)](https://visitcount.itsvg.in)
 
 
-<h1 align="center">Hi 👋, I'mI'm Metin Topal</h1> 
+<h1 align="center">Hi 👋, I'm Metin Topal</h1> 
 <h3 align="center">A passionate Full Stack Java Developer from Germany.</h3> 
 
 
-<img align="right" alt="Coding" width="360" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjBlYjRlYzRkN2JlNjEzY2EzYjY5NzBiZjZkYmM4OTA5MDVmODExNiZjdD1n/LaVp0AyqR5bGsC5Cbm/giphy.gif">
+<img align="right" alt="Coding" width="360" src="https://thumbs.gfycat.com/CheerySeparateGoldeneye-size_restricted.gif">
  
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p> 
  
@@ -57,7 +57,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=meryemkolbasar&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 
-<h3 align="left">🏆 Top Contributed Repo</h3>
+<h3 align="left">💬 Top Contributed Repo</h3>
 
 ---
 ![](https://github-contributor-stats.vercel.app/api?username=MetinTopal26&limit=5&theme=nord&combine_all_yearly_contributions=true)
