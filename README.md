@@ -7,7 +7,7 @@
 <h3 align="center">A passionate Full Stack Java Developer from Germany.</h3> 
 
 
-<img align="right" alt="Coding" width="360" src="https://thumbs.gfycat.com/CheerySeparateGoldeneye-size_restricted.gif">
+<img align="right" alt="Coding" width="390" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
  
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p> 
  
