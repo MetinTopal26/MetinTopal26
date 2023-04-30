@@ -3,7 +3,7 @@
 [![](https://visitcount.itsvg.in/api?id=MetinTopal26&icon=2&color=9)](https://visitcount.itsvg.in)
 
 
-<h1 align="center">Hi 👋, I'm Meryem Kolbasar</h1> 
+<h1 align="center">Hi 👋, I'mI'm Metin Topal</h1> 
 <h3 align="center">A passionate Full Stack Java Developer from Germany.</h3> 
 
 
@@ -16,9 +16,11 @@
  ---
  
  
-- 🌱 I'm currently learning **PostgreSQL** 
-- 📫 How to reach me **kolbasarmeryem@gmail.com** 
-- ⚡ Languages I can speak: **English, German, Turkish**
+- 🌱 I’m currently learning **Java,SQL**
+
+- 📫 How to reach me **metintopal777@gmail.com**
+
+- ⚡ Languages I can speak: **German, Turkish**
 
 
 
